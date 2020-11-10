@@ -1,0 +1,5 @@
+{
+"/Employees/list":"/Employees",
+"/Employees/get/:id":"/Employees/:id",
+"/Employees/update/:id":"/Employees/:id"
+}
