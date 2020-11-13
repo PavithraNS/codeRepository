@@ -4,8 +4,10 @@ using System.Text;
 
 namespace MultiThreading
 {
+    //Employee Model
     public class EmployeeDetails
     {
+        
         public int id { get; set; }
         public string EmployeeName { get; set; }
         public int PhoneNumber { get; set; }
